@@ -167,7 +167,7 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -175,7 +175,7 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -183,14 +183,16 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -199,7 +201,8 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -207,7 +210,8 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className="bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -215,14 +219,16 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className="bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -231,7 +237,8 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -239,7 +246,8 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className="bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
@@ -247,14 +255,16 @@ export default function Home() {
               <div className="flex flex-col gap-1">
                 <div className="bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
               <div className="flex flex-col gap-1">
                 <div className=" bg-cover bg-center w-40 h-40 flex items-center justify-center"></div>
                 <div>
-                  <div className="text-xl">Album's name</div>
+                  <div className="text-xl">Album&apos;s name</div>
+
                   <div className="text-xs">Artist</div>
                 </div>
               </div>
